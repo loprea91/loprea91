@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lawrence! 
 - 👨‍🔬 I'm a scientist (neuroscience).
 - 👀 I’m interested in mathematical biology, computational neuroscience, machine learning, deep learning, dynamical systems.
+- 👨‍💻 I'm a Python, MATLAB, and Julia user.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on image analysis projects.
 - 📫 How to reach me l.oprea7@gmail.com
